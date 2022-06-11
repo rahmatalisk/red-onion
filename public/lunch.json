@@ -1,0 +1,45 @@
+
+[
+    {
+        "id":1,
+        "img":"https://i.ibb.co/nMNBzGq/lunch1.png",
+        "price":24,
+        "title":"Grapefriuts and Lentil salad",
+        "body":"Bistek Tagalog is a type of Filipino beef stew. This is also known as Beefsteak to some people. It is comprised of thin slices of beef and a generous amount of onions. These are stewed in a soy sauce and lemon juice mixture until the beef gets very tender. It is best enjoyed with warm rice. In my opinion, there is a huge possibility that the term Bistek was derived from the words “beef steak”. I have not done the research yet. It is appreciated if you can provide facts about the history of this beloved Filipino dish. Don’t be shy. The comments section is located below this recipe post."
+    },
+    {
+        "id":2,
+        "img":"https://i.ibb.co/mHdM0Jy/lunch2.png",
+        "title":"Pork Tenderion",
+        "price":8,
+        "body":"Bistek Tagalog is a type of Filipino beef stew. This is also known as Beefsteak to some people. It is comprised of thin slices of beef and a generous amount of onions. These are stewed in a soy sauce and lemon juice mixture until the beef gets very tender. It is best enjoyed with warm rice. In my opinion, there is a huge possibility that the term Bistek was derived from the words “beef steak”. I have not done the research yet. It is appreciated if you can provide facts about the history of this beloved Filipino dish. Don’t be shy. The comments section is located below this recipe post."
+    },
+    {
+        "id":3,
+        "img":"https://i.ibb.co/8jGV2L3/lunch3.png",
+        "title":"Indian Lunch",
+        "price":4,
+        "body":"Bistek Tagalog is a type of Filipino beef stew. This is also known as Beefsteak to some people. It is comprised of thin slices of beef and a generous amount of onions. These are stewed in a soy sauce and lemon juice mixture until the beef gets very tender. It is best enjoyed with warm rice. In my opinion, there is a huge possibility that the term Bistek was derived from the words “beef steak”. I have not done the research yet. It is appreciated if you can provide facts about the history of this beloved Filipino dish. Don’t be shy. The comments section is located below this recipe post."
+    },
+    {
+        "id":4,
+        "img":"https://i.ibb.co/MCT6dp8/lunch4.png",
+        "title":"Tarragon Rubbed Salmon",
+        "price":21,
+        "body":"Bistek Tagalog is a type of Filipino beef stew. This is also known as Beefsteak to some people. It is comprised of thin slices of beef and a generous amount of onions. These are stewed in a soy sauce and lemon juice mixture until the beef gets very tender. It is best enjoyed with warm rice. In my opinion, there is a huge possibility that the term Bistek was derived from the words “beef steak”. I have not done the research yet. It is appreciated if you can provide facts about the history of this beloved Filipino dish. Don’t be shy. The comments section is located below this recipe post."
+    },
+    {
+        "id":5,
+        "img":"https://i.ibb.co/r25Rnpq/lunch5.png",
+        "title":"Lamoney salmon piccata",
+        "price":9,
+        "body":"Bistek Tagalog is a type of Filipino beef stew. This is also known as Beefsteak to some people. It is comprised of thin slices of beef and a generous amount of onions. These are stewed in a soy sauce and lemon juice mixture until the beef gets very tender. It is best enjoyed with warm rice. In my opinion, there is a huge possibility that the term Bistek was derived from the words “beef steak”. I have not done the research yet. It is appreciated if you can provide facts about the history of this beloved Filipino dish. Don’t be shy. The comments section is located below this recipe post."
+    },
+    {
+        "id":6,
+        "img":"https://i.ibb.co/XZSyG96/lunch6.png",
+        "title":"Beef Steak",
+        "price":15,
+        "body":"Bistek Tagalog is a type of Filipino beef stew. This is also known as Beefsteak to some people. It is comprised of thin slices of beef and a generous amount of onions. These are stewed in a soy sauce and lemon juice mixture until the beef gets very tender. It is best enjoyed with warm rice. In my opinion, there is a huge possibility that the term Bistek was derived from the words “beef steak”. I have not done the research yet. It is appreciated if you can provide facts about the history of this beloved Filipino dish. Don’t be shy. The comments section is located below this recipe post."
+    }
+]
